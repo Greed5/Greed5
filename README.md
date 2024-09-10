@@ -1,7 +1,7 @@
 ![logo](github-header-image.png)
 <h1 align="center">Hi 👋, I'm Greed5</h1>
 
-<h3 align="center">A passionate Full Stack Dev from Cambodia</h3>
+<h3 align="center">A passionate Full Stack Dev</h3>
 <hr style="width: 100%; border-style: solid; border-width: 3px; border-color: #666; margin-top: 20px;">
 
 <img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F2djR5Zjc5MTVncmVqa3Z2cTEyaGd3ODZkZG4wNmhkOHpjN2p6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
