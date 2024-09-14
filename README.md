@@ -1,5 +1,5 @@
 ![logo](github-header-image.png)
-<h1 align="center">Hi 👋, I'm Greed5 </h1>
+<h1 align="center">Hi 👋, I'm Greedy5 </h1>
 
 <h3 align="center">A passionate Full Stack Dev</h3>
 <hr style="width: 100%; border-style: solid; border-width: 3px; border-color: #666; margin-top: 20px;">
